@@ -1,0 +1,14 @@
+Meta-train set: BristolGorillas 2020 (1000 samples)
+Meta-test set: C-Zoo Gorillas (all samples)
+
+Meta learning rate: 0.001
+Meta fast learning rate: 0.1
+Adapt steps: 5
+Meta batch size: 32
+Iterations: 1000 (cut off at 100)
+
+The experiments performed here relate to the number of shots
+The number of sampled classes is kept consistent
+
+
+
